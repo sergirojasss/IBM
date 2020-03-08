@@ -1,0 +1,6 @@
+framework module Pods_IBMTests {
+  umbrella header "Pods-IBMTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
