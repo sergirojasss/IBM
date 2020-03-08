@@ -1,3 +1,5 @@
+*This is another recruitment exercise. On master branch, the project I made in 3 hours. On any other branch, I'll do some improvements for updating myself.*
+
 # **International Business Men**
 *(Maximum amount of time allowed 3 hours Task)*
  
